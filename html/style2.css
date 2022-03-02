@@ -1,0 +1,60 @@
+body {
+  background-image: url("../img/weihnachten.gif");
+  background-repeat: repeat;
+  background-size: 10%;
+  background-color: white;
+}
+
+#titel {
+  text-align: center;
+  font-size: 300%;
+  background-color: grey;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 3%;
+  font-family: "Bauhaus 93";
+}
+
+#text {
+  color:blue;
+  background-color: grey;
+  width: 70%;
+  font-family: "Broadway";
+  font-size: 150%;
+  margin: 0 auto;
+}
+
+#button {
+  font-size: 150%;
+  font-family: "Impact";
+  margin-left: 5%;
+}
+
+#gedicht {
+  background-image: repeating-radial-gradient(red,green 10%);
+  color: yellow;
+  width: 40%;
+  text-align: center;
+  margin: 0 auto;
+  border-color: black;
+  border-style: solid;
+  font-size: 150%;
+  font-family: "Vineta BT";
+}
+
+#gif {
+  background-color: black;
+  text-align: center;
+  width: 40%;
+  margin-top: 3%;
+  margin: 0 auto;
+}
+
+#mid {
+
+}
+
+img.gif {
+  width: 80%;
+  height: auto;
+}
